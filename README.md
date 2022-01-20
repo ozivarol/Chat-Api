@@ -3,7 +3,7 @@
 
 ## Overview
 
-A RESTful API with a mutli endpoint that retrieves data from the given MongoDB collection, filters it, and returns the results in the desired format.
+A RESTful API with a mutli endpoint that retrieves data from the given MongoDB collection
 
 
 ## Table of contents
